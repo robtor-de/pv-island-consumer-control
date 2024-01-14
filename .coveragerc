@@ -1660,6 +1660,9 @@ omit =
     homeassistant/components/myuplink/coordinator.py
     homeassistant/components/myuplink/entity.py
     homeassistant/components/myuplink/sensor.py
+    homeassistant/components/pv_control/__init__.py
+    homeassistant/components/pv_control/sensor.py
+    homeassistant/components/pv_control/switch.py
 
 
 [report]

@@ -389,6 +389,7 @@ FLOWS = {
         "purpleair",
         "pushbullet",
         "pushover",
+        "pv_control",
         "pvoutput",
         "pvpc_hourly_pricing",
         "qbittorrent",

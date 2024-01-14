@@ -1,0 +1,14 @@
+{
+  "domain": "pv_control",
+  "name": "PV-Island system consumer control",
+  "codeowners": ["@robtor-de"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/pv_control",
+  "homekit": {},
+  "integration_type": "device",
+  "iot_class": "calculated",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
